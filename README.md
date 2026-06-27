@@ -41,11 +41,16 @@ https://somasindhuja.github.io/fashion-trends/
 fashiontrends/
 
 │── index.html
+
 │── fashiontrends.css
+
 │── README.md
+
 │
 └── assets/
+
     └── images/
+    
         ├── Fashion.jpg
         ├── Men1.jpeg
         ├── Men2.jpeg
