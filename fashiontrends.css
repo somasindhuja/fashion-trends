@@ -1,0 +1,101 @@
+header{
+    background-color: rgb(169, 47, 92);
+    color: white;
+    padding: 20px;
+    border-bottom: 5px solid yellow;
+    text-align: center;
+   
+}
+.menu{
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    padding: 10px;
+     border-bottom: 5px solid gray;
+     position: sticky;
+     top:0px;
+     z-index: 1000;
+     background-color: white;
+     height: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding:20px;
+   
+}
+marquee{
+    background-color: rgb(181, 46, 114);
+    color: white;
+    padding: 10px;
+    margin-top: 4px;
+}
+#image1{
+    width: 100%;
+    height: 330px;
+    display: block;
+}
+#men,#women,#kids,#offers{
+    background-color:rgb(226, 193, 193);
+    color: white;
+    border-radius: 10px;
+    margin: 0px;
+    padding-bottom: 15px;
+}
+#women,#offers{
+    background-color:rgb(175, 189, 215);
+}
+h3{
+    border-left: 5px solid rgb(150, 72, 150);
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    display: flex;
+}
+.men , .women , .kids{
+    border: 4px solid white;
+    border-radius: 10px;
+    width: 235px;
+    height: 270px;
+    margin-right: 8px;
+}
+#table1{
+  margin-left: 16px;
+  border: none;
+}
+th{
+    color: black;
+    padding:0px 182px 5px 200px ;
+
+}
+#table2{
+     border: 2px solid black;
+    color: black;
+    background-color: white;
+    border-collapse: collapse;
+    margin-left: 16px;
+}
+td{
+    border: 2px solid;
+    padding:5px 355px 5px 5px ;
+ 
+}
+#fashion{
+    background-color:rgb(207, 157, 157);
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+iframe{
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(169, 47, 92);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
