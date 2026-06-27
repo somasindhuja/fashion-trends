@@ -39,7 +39,8 @@ https://somasindhuja.github.io/fashion-trends/
 ## 📁 Project Structure
 
 fashiontrends/
-│── fashiontrends.html
+
+│── index.html
 │── fashiontrends.css
 │── README.md
 │
@@ -47,8 +48,20 @@ fashiontrends/
     └── images/
         ├── Fashion.jpg
         ├── Men1.jpeg
+        ├── Men2.jpeg
+        ├── Men3.jpeg
+        ├── Men4.jpeg
+        ├── Men5.jpeg
         ├── Women1.jpg
+        ├── Women2.jpeg
+        ├── Women3.jpeg
+        ├── Women4.jpeg
+        ├── Women5.jpeg
         ├── Kids1.jpeg
+        ├── Kids2.jpeg
+        ├── Kids3.jpeg
+        ├── Kids4.jpeg
+        ├── Kids5.jpeg
         └── preview.png
 
 ---
