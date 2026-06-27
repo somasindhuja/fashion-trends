@@ -8,7 +8,7 @@ Inspired by Amazon & Ajio style UI design
 ## 🌐 Live Demo
 
 👉 Click here to view project:  
-https://somasindhuja.github.io/fashiontrends/
+https://somasindhuja.github.io/fashion-trends/
 
 ---
 
